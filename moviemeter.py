@@ -1,5 +1,4 @@
 from imdb import IMDb
-from functools import lru_cache
 import json
 import datetime
 from flask import Flask, jsonify, request
